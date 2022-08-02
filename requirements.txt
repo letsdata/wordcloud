@@ -1,0 +1,6 @@
+notebook
+pandas
+pillow
+requests
+bs4
+wordcloud
